@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><blockly formTarget="" resourceType="JAVA" ruleDescription="BlocoS" ruleName="BlocoS" ruleSynchronous="false" ruleTimeout="" ruleType="I">
+  <metadata scale="1" scrollx="455.39999999999986" scrolly="-85.69999999999999" target="Anb:u5+^,0vLkL9QIqn5"/>
+  <block colour="#995ba5" id="Anb:u5+^,0vLkL9QIqn5" origintype="procedures_defreturn" output="false" tooltip="Cria uma função que possui um valor de retorno." type="procedures_defreturn" x="-322" y="158">
+    <mutation>
+      <arg name="token"/>
+    </mutation>
+    <field name="NAME">Executar</field>
+    <comment h="80" pinned="false" w="160">BlocoS</comment>
+    <statement name="STACK">
+      <block colour="#487f7f" dependencyby="Anb:u5+^,0vLkL9QIqn5" id="l:$t$O.Q7ibwu;J,AvwH" multilayer="false" namespace="cronapi.pushnotification.Operations.sendNotification" origintype="procedures_callnoreturn" output="false" returntype="ObjectType.VOID" tooltip="%3Cdiv%20class=%22name%22%3E%3Cstrong%3ENome:%3C/strong%3E%3Cdiv%3EEnviar%20notifica%C3%A7%C3%A3o%20push%3C/div%3E%3C/div%3E%3Cdiv%20class=%22description%22%3E%3Cstrong%3EDescri%C3%A7%C3%A3o:%3C/strong%3E%3Cdiv%3EFun%C3%A7%C3%A3o%20que%20envia%20notifica%C3%A7%C3%A3o%20para%20um%20dispositivo%20movel%20usando%20o%20FCM%20(Firebase%20Cloud%20Message).%3C/div%3E%3C/div%3E%3Cdiv%20class=%22params%22%3E%3Cstrong%3EParam%C3%AAtro:%3C/strong%3E%3Cdiv%3E%3Cspan%3E%20-%20Chave%20do%20Servidor%20:%20Texto%3C/span%3E%3Cbr%3E%3Cspan%3E%20-%20Destinat%C3%A1rio%20:%20Objeto%3C/span%3E%3Cbr%3E%3Cspan%3E%20-%20T%C3%ADtulo%20:%20Texto%3C/span%3E%3Cbr%3E%3Cspan%3E%20-%20Subt%C3%ADtulo%20:%20Texto%3C/span%3E%3Cbr%3E%3Cspan%3E%20-%20Dados%20:%20Json%3C/span%3E%3Cbr%3E%3C/div%3E%3C/div%3E%3Cdiv%20class=%22link%22%3E%3Cstrong%3EAjuda:%3C/strong%3E%3Cdiv%20class=%22tooltip-link%22%3E%3Ca%20target=%22_blank%22%20href=%22https://docs.cronapp.io/display/CRON2/cronapi.pushnotification.Operations.sendNotification%22%3Ehttps://docs.cronapp.io/display/CRON2/cronapi.pushnotification.Operations.sendNotification%3C/a%3E%3C/div%3E%3C/div%3E" type="procedures_callnoreturn">
+        <mutation name="{{cronapi.pushnotification.Operations.sendNotification}}" return-raw-type="void">
+          <arg cronapi-raw-type="cronapi.Var" cronapi-type="ObjectType.STRING" name="Chave do Servidor"/>
+          <arg cronapi-raw-type="cronapi.Var" cronapi-type="ObjectType.OBJECT" name="Destinatário"/>
+          <arg cronapi-raw-type="cronapi.Var" cronapi-type="ObjectType.STRING" name="Título"/>
+          <arg cronapi-raw-type="cronapi.Var" cronapi-type="ObjectType.STRING" name="Subtítulo"/>
+          <arg cronapi-raw-type="cronapi.Var" cronapi-type="ObjectType.JSON" name="Dados"/>
+        </mutation>
+        <value name="ARG0">
+          <shadow colour="#5ba593" dependencyby="Anb:u5+^,0vLkL9QIqn5" id=";JzB6ku`4+}dX7Hs.27h" origintype="text" output="true" tooltip="function () { [native code] }" type="text">
+            <field name="TEXT">AAAAgJ5PFTU:APA91bG9YgKRwOy8PldoZ_ySII3hhE3DcYoGEitWQj9J7JqHmdYzPLvZ1v0jPrKtR9Vz1IIZS7RtnRhBaU1m0JTqUImHotI9o8mUOeRz8qT7uo6ZX7kIXi_dGfmvSSaTJQpxi6NUZyYqV7VLJwS6XF4z1NP_83tjyQ</field>
+          </shadow>
+        </value>
+        <value name="ARG1">
+          <block colour="#0088ee" dependencyby="Anb:u5+^,0vLkL9QIqn5" id="d.5~cwDm@hO;10|FE9M)" origintype="variables_get" output="true" tooltip="Retorna o valor desta variável." type="variables_get">
+            <field name="VAR">token</field>
+          </block>
+        </value>
+        <value name="ARG2">
+          <shadow colour="#5ba593" dependencyby="Anb:u5+^,0vLkL9QIqn5" id="T4oD1e[N%Oy4K[#VaTCh" origintype="text" output="true" tooltip="function () { [native code] }" type="text">
+            <field name="TEXT">!@#$%¨&amp;*()__ áà íÍãâÁÁ~çªº&lt;&gt;:;.,¹²³ü§</field>
+          </shadow>
+        </value>
+        <value name="ARG3">
+          <shadow colour="#5ba593" dependencyby="Anb:u5+^,0vLkL9QIqn5" id="t]YhC+2/mrkeCV4h:-KY" origintype="text" output="true" tooltip="function () { [native code] }" type="text">
+            <field name="TEXT">!@#$%¨&amp;*()__ áà íÍãâÁÁ~çªº&lt;&gt;:;.,¹²³ü§</field>
+          </shadow>
+        </value>
+      </block>
+    </statement>
+  </block>
+</blockly>

@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "552411796789",
+    "firebase_url": "https://push-notification-no-cronapp.firebaseio.com",
+    "project_id": "push-notification-no-cronapp",
+    "storage_bucket": "push-notification-no-cronapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552411796789:android:9f7e7ff1fde49148",
+        "android_client_info": {
+          "package_name": "com.cronapp.pushNotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552411796789-8iethv4cb9n17nnhibo1jqk2qhpd3pqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACow7DL9WU0nhgCJAA1_WiHt9zvMphV_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552411796789-8iethv4cb9n17nnhibo1jqk2qhpd3pqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552411796789:android:e39897fb8e56f17b",
+        "android_client_info": {
+          "package_name": "io.cronapp.apps.bateriatestes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552411796789-8iethv4cb9n17nnhibo1jqk2qhpd3pqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACow7DL9WU0nhgCJAA1_WiHt9zvMphV_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552411796789-8iethv4cb9n17nnhibo1jqk2qhpd3pqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552411796789:android:0348a550810d7513",
+        "android_client_info": {
+          "package_name": "io.cronapp.apps.testehomemcarteziano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552411796789-8iethv4cb9n17nnhibo1jqk2qhpd3pqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACow7DL9WU0nhgCJAA1_WiHt9zvMphV_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552411796789-8iethv4cb9n17nnhibo1jqk2qhpd3pqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552411796789:android:906f88006f4896ce",
+        "android_client_info": {
+          "package_name": "io.cronapp.apps.testepush2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552411796789-8iethv4cb9n17nnhibo1jqk2qhpd3pqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACow7DL9WU0nhgCJAA1_WiHt9zvMphV_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552411796789-8iethv4cb9n17nnhibo1jqk2qhpd3pqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
